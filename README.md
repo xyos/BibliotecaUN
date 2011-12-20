@@ -1,7 +1,7 @@
 #  Biblioteca UN [http://sinab.unal.edu.co/](http://sinab.unal.edu.co/)
 
 #### Contributors
-[Jairo Suarez](http://jairosuarez.com/), David Bermeo, [Santiago Pérez](https://github.com/saaperezru),
+[Jairo Suarez](https://github.com/xyos), [David Bermeo](https://github.com/jdbermeol), [Santiago Pérez](https://github.com/saaperezru),
 
 
 ##### Thanks:
